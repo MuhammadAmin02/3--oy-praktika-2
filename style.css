@@ -1,0 +1,231 @@
+
+
+.cars {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cars div div {
+    display: flex;
+
+}
+
+.cars button {
+    margin-left: 110px;
+    border-radius: 20px;
+    background-color: orange;
+    border-bottom-right-radius: 0;
+}
+
+
+
+.box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+
+.box div {
+    width: 40%;
+    height: 100%;
+    /* margin-top: 250px; */
+
+}
+
+.box div h1 {
+
+    font-size: 66px;
+}
+
+.box div p {
+    width: 80%;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.box div b {
+    color: orange;
+}
+
+.box2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box2 div {
+    width: 40%;
+}
+
+.box2 div b {
+    color: orange;
+}
+
+.mandarin div {
+    display: flex;
+    align-items: center;
+}
+
+.mandarin p {
+    margin-left: 5px;
+}
+
+.mandarin button {
+    margin-left: 45px;
+    background-color: orange;
+    border: none;
+    border-radius: 15px;
+    border-bottom-right-radius: 0;
+    width: 79px;
+    height: 33px;
+}
+
+
+span {
+    color: orange;
+}
+
+.waw {
+    text-align: center;
+    font-size: 45px;
+}
+
+.box3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box3 div {
+    width: 40%;
+}
+
+.box2 div p {
+    width: 80%;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.box3 div p {
+    width: 80%;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.box div button {
+    background-color: orange;
+    width: 163px;
+    height: 50px;
+    color: white;
+    border: none;
+    border-radius: 15px;
+
+}
+
+.box2 div button {
+    background-color: orange;
+    width: 176px;
+    height: 58px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    border-bottom-right-radius: 0;
+
+}
+
+
+.box4 {
+    width: 1170px;
+    height: 312px;
+    background-color: orange;
+    margin: 0 auto;
+    border-radius: 20px;
+
+
+}
+
+.box4 h1 {
+    text-align: center;
+}
+
+.cake {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    width: 800px;
+    height: 78px;
+    background-color: white;
+    margin: 0 auto;
+    border-radius: 70px;
+
+}
+
+.cake input {
+    border-radius: 70px;
+    width: 538px;
+    height: 70px;
+    border: none;
+    font-size: 20px;
+
+
+}
+
+.cake button {
+    border: none;
+    width: 190px;
+    height: 58px;
+    border-radius: 70px;
+    background-color: orange;
+    margin-right: 10px;
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.box4 h1 {
+    color: white;
+    font-size: 45px;
+    font-weight: 900;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    width: 1271px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+header div {
+    display: flex;
+    width: 444px;
+    height: 20.76px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+header div a {
+    text-decoration: none;
+    color: black;
+}
+
+header div a:hover {
+    color: orange;
+}
+
+header button {
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+    border: none;
+
+}
